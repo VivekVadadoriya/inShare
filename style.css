@@ -19,10 +19,9 @@ body {
     width: 150px;
 }
 
-.image-vector {
-    width: 50vw;
+.image-vector img {
+    padding: 50px;
     height: 50vh;
-    background: url(upload.png) no-repeat center;
     background-size: contain;
 }
 
